@@ -28,13 +28,6 @@ Flagship project: **Nouns 95** - a Windows 95-inspired interface for [Nouns DAO]
 - Studio app for creating custom Nouns
 - Multi-chain support (Ethereum, Base, Solana, Bitcoin)
 
-## Other Projects
-
-Our supporting utilities for the Nouns ecosystem include:
-
-- **Win95 Asset Extractor**: Python utility for extracting images from Windows 95/98 ISO files
-- **Nouns Subgraphs**: Two Goldsky subgraphs for indexing Nouns data
-
 ## Tech Stack
 
 - Next.js 13+ with App Router
@@ -44,6 +37,13 @@ Our supporting utilities for the Nouns ecosystem include:
 - Multi-chain support via AppKit
 - GraphQL with Apollo Client
 - Pixel-perfect Windows 95 styling
+
+## Other Projects
+
+Our supporting utilities for the Nouns ecosystem include:
+
+- **Win95 Asset Extractor**: Python utility for extracting images from Windows 95/98 ISO files
+- **Nouns Subgraphs**: Two Goldsky subgraphs for indexing Nouns data
 
 ## Contributing
 
