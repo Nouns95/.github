@@ -4,11 +4,14 @@
 
 ## About Us
 
-Macrohard Corporation delivers innovative digital experiences for the web3 era. We combine proven computing paradigms with blockchain technology while respecting the giants who came before us—but we're not afraid to do it different and better.
+Macrohard Corporation delivers innovative digital experiences for the web3 era. 
+We combine proven computing paradigms with blockchain technology while respecting the giants who came before us—but we're not afraid to do it different and better.
 
-Our approach is professional yet bold. We blend nostalgic interfaces with cutting-edge web3 functionality, creating experiences that feel familiar but push boundaries. We're reimagining computing for the Nouns ecosystem and making blockchain technology accessible without compromising on power or personality.
+Our approach is professional yet bold. We blend nostalgic interfaces with cutting-edge web3 functionality, creating experiences that feel familiar but push boundaries. 
+We're reimagining computing for the Nouns ecosystem and making blockchain technology accessible without compromising on power or personality.
 
-At Macrohard, we understand both where computing has been and where it's going. We honor the foundations while refusing to be constrained by them.
+At Macrohard, we understand where computing has been and where it's going.
+We honor the foundations while refusing to be constrained by them.
 
 ## Nouns 95
 
