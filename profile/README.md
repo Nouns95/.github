@@ -5,7 +5,7 @@
 ## About Us
 
 Macrohard Corporation delivers innovative digital experiences for the web3 era.<br>
-We combine proven computing paradigms with blockchain technology while respecting the giants who came before us—but we're not afraid to do it different and better.
+We combine proven computing paradigms with blockchain technology.
 
 Our approach is professional yet bold.<br>
 We blend nostalgic interfaces with cutting-edge web3 functionality, creating experiences that feel familiar but push boundaries.<br>
