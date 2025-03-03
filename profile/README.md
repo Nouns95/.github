@@ -12,6 +12,8 @@ At Macrohard, we understand both where computing has been and where it's going. 
 
 ## Nouns 95
 
+https://nouns95.wtf
+
 Flagship project: **Nouns 95** - a Windows 95-inspired interface for [Nouns DAO](https://nouns.wtf). Built with Next.js and TypeScript, it brings nostalgic computing to web3 with pixel-perfect attention to detail.
 
 ### What it does:
