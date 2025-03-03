@@ -1,6 +1,6 @@
 # Macrohard
 
-**"Go where you want today."**
+### Go where you want today.
 
 ## About Us
 
