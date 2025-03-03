@@ -2,7 +2,7 @@
 
 **"Go where you want today."**
 
-[![Macrohard Banner](https://imgur.com/gYjarc6)]
+[![Macrohard Banner](https://postimg.cc/9DzWYSPy)]
 
 ## About Us
 
