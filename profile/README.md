@@ -2,8 +2,6 @@
 
 **"Go where you want today."**
 
-[![Macrohard Banner](https://postimg.cc/9DzWYSPy)]
-
 ## About Us
 
 Macrohard Corporation delivers innovative digital experiences for the web3 era. We combine proven computing paradigms with blockchain technology while respecting the giants who came before us—but we're not afraid to do it different and better.
